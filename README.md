@@ -1,1 +1,3 @@
-# homebrew-3pjgames
+# Homebrew Formulae
+
+Homebrew Formulae provided by 3pjgames.com
